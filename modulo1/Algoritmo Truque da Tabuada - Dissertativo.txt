@@ -1,0 +1,22 @@
+Algoritmo Truque da Tabuada
+
+Modo 1
+
+# Liste os números. 
+1- Faça uma lista na vertical (Coluna 1) de 10 números "9";
+2- Faça uma lista na vertical (Coluna 2) de 10 letras/sinal de multiplicação "X";
+3- Faça uma lista na vertical (Coluna 3) de uma sequencia de 1 a 10;
+4- Faça uma lista na vertical (Coluna 4) de 10 sinais deigualdade "=";
+
+#Execute a fórmula (n-1) e (10-n)
+1- Utilize a lista criada na coluna 3 e faça a operação substiuindo o "n" pelo numero da sequencia (Insira o resultado na coluna 5);
+2- Utilize a lista criada na coluna 3 e faça a operação substiuindo o "n" pelo numero da sequencia (Insira o resultado na coluna 6;
+
+#Verifique o resultado
+1- Os números criados nas colunas 5 e 6 representam o resultado da tabuada.
+
+Modo 2
+
+1- Leia e armazene uma sequencia de 10 números "9" e uma sequencia de 1 a 10 separados pelo sinal de multiplicação "x";
+2- Aplique a  fórmula (n-1) e (10-n) de forma separada; #Processamento
+3- Apresente o resultado de cada operação uma do lado da outra.#saida

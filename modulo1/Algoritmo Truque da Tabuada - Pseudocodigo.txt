@@ -1,0 +1,7 @@
+1-Inicio
+2- Leia "n"; #entrada
+3- x=(n-1); #processamento
+4- y=(10-n); #processamento
+5- 9 x n = x y; #processamento
+6- Imprima “ O valor da multiplicação é” Imprima valor xy; #saída
+7- Fim
