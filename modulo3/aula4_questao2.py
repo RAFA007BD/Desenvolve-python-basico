@@ -7,16 +7,19 @@
 
 #Entrada
 nota=int(input("Em uma escala de 1 a 5, qual a sua avaliação para o filme:"))
+
+#Procesamento
 if nota == 5:
-    print("Excelente")
+    print("Excelente") #saida
 if nota == 4:
-    print("Muito Bom")
+    print("Muito Bom") #saida
 if nota == 3:
-    print("Bom")
+    print("Bom") #saida
 if nota == 2:
-    print("Regular")
+    print("Regular") #saida
 if nota == 1:
-    print("Ruim")
+    print("Ruim") #saida
+    
        
            
     
